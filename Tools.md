@@ -3,8 +3,14 @@ Although it may sound cool to program using notepad, life is much easier with a 
 
 * Visual Studio Code: https://code.visualstudio.com/
 
+
+## Version control
 Git: https://git-scm.com/
 
+GitHub is a great place to store and share your code. As long as you are having public repositories, it is free as well. Do not try to learn everything at once. Github Desktop is a great way to start using Git, without having to learn a myriad of terminal commands. https://desktop.github.com/
 
-Docker
+
+## Docker
+
+
 +Sql server
