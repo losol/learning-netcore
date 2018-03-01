@@ -4,6 +4,7 @@ Although it may sound cool to program using notepad, life is much easier with a 
 * Visual Studio Code: https://code.visualstudio.com/
 
 
+
 ## Version control
 Git: https://git-scm.com/
 
@@ -21,4 +22,8 @@ draw.io
 
 ## Node
 https://nodejs.org/en/
+
+## Gulp
+https://coolestguidesontheplanet.com/installing-gulp-on-osx-10-11-el-capitan/
+
 
